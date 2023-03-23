@@ -1,5 +1,5 @@
 {
-    "name": "easyswoole/socket",
+    "name": "fei11/socket",
     "type": "library",
     "description": "An efficient swoole framework",
     "keywords" : ["swoole", "framework", "async","easyswoole"],
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "easyswoole/spl": "^2.0"
+        "fei11/spl": "^2.0"
     },
     "autoload": {
         "psr-4": {
